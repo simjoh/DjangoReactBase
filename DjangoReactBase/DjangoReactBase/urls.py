@@ -1,4 +1,4 @@
-"""KOMBlower URL Configuration"""
+"""DjangoReactBase URL Configuration"""
 
 
 from django.contrib import admin
